@@ -1,0 +1,35 @@
+<!doctype html>
+
+<html lang="en-UK">
+    <head>
+        <meta charset="utf-8">
+
+        <title>Toad Hall</title>
+
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+        <style>
+            body {
+              background-color: lightblue;
+            }
+        </style>
+
+    </head>
+    
+
+    <body>
+
+        <h1><!--The -->Toad has landed!</h1>
+        <h2>Welcome to Toad Hall</h2>
+        <h3>(greetings to all small animals)</h3>
+        <p style="font-size:100px; text-align:center">🐸🐝🦌</p>
+        <a href="https://en.wikipedia.org/wiki/Mandarin_duck">
+         <img title="Mandarin Duck- click to view in Wikipedia" src="https://ichef.bbci.co.uk/news/976/cpsprodpb/5A6F/production/_129715132_uploadesandhyabhattaramr.jpg.webp"
+         style="width:50%;height:50%;" alt="Multicoloured duck on blue water"> 
+        </a>
+        <!-- Load external JavaScript -->
+        <script src="scripts.js"></script>
+        
+    </body>
+
+</html>
